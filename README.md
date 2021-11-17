@@ -2,7 +2,6 @@
 This is SIFT feature detection and matching implemented in C + +
 
 Environment version information：
-
 VS2017、Opencv3.4.3
 
 Reference link：
