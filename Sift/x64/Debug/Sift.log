@@ -1,0 +1,32 @@
+﻿  main.cpp
+e:\vs2017_workspace\sift\sift\main.cpp(56): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+  sift.cpp
+e:\vs2017_workspace\sift\sift\sift.cpp(18): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\vs2017_workspace\sift\sift\sift.cpp(82): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\vs2017_workspace\sift\sift\sift.cpp(106): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\vs2017_workspace\sift\sift\sift.cpp(107): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\vs2017_workspace\sift\sift\sift.cpp(212): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\vs2017_workspace\sift\sift\sift.cpp(213): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\vs2017_workspace\sift\sift\sift.cpp(236): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\vs2017_workspace\sift\sift\sift.cpp(322): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\vs2017_workspace\sift\sift\sift.cpp(357): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\vs2017_workspace\sift\sift\sift.cpp(364): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\vs2017_workspace\sift\sift\sift.cpp(381): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\vs2017_workspace\sift\sift\sift.cpp(472): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\vs2017_workspace\sift\sift\sift.cpp(554): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\vs2017_workspace\sift\sift\sift.cpp(566): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\vs2017_workspace\sift\sift\sift.cpp(614): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\vs2017_workspace\sift\sift\sift.cpp(672): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\vs2017_workspace\sift\sift\sift.cpp(809): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\vs2017_workspace\sift\sift\sift.cpp(903): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\vs2017_workspace\sift\sift\sift.cpp(940): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+  正在生成代码...
+  Sift.vcxproj -> E:\VS2017_workspace\Sift\x64\Debug\Sift.exe
