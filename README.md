@@ -16,8 +16,9 @@ The algorithm is mainly divided into the following steps，The example picture i
 
 
 ①For feature detection, SIFT feature detection is performed on the sample picture, and the results are shown in the figure below：
-<img width="225" alt="src_with_point" src="https://user-images.githubusercontent.com/84729271/142442183-3391d57d-2eb4-47cf-afda-02a63f1d9dea.png">
-<img width="225" alt="src2_with_point" src="https://user-images.githubusercontent.com/84729271/142442197-c7eb6602-e6e8-4d34-b233-9d147c6907b1.png">
+<img width="300" alt="src_with_point" src="https://user-images.githubusercontent.com/84729271/142442455-1b2b68f8-f10f-4016-9d3f-bf0a80d08c92.png">
+<img width="300" alt="src2_with_point" src="https://user-images.githubusercontent.com/84729271/142442472-da0624fa-5f1d-49fb-a3aa-bdf30fe00e32.png">
+
 
 
 
