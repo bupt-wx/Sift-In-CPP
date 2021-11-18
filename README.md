@@ -16,8 +16,9 @@ The algorithm is mainly divided into the following steps，The example picture i
 
 
 ①For feature detection, SIFT feature detection is performed on the sample picture, and the results are shown in the figure below：
-![image](https://user-images.githubusercontent.com/84729271/142440613-ba2e6ed7-db6d-469b-a1c6-2452d136a127.png)
-![image](https://user-images.githubusercontent.com/84729271/142440637-fa79e25d-510c-4965-a10d-fc332536155c.png)
+<img width="225" alt="src_with_point" src="https://user-images.githubusercontent.com/84729271/142442183-3391d57d-2eb4-47cf-afda-02a63f1d9dea.png">
+<img width="225" alt="src2_with_point" src="https://user-images.githubusercontent.com/84729271/142442197-c7eb6602-e6e8-4d34-b233-9d147c6907b1.png">
+
 
 
 ②Feature matching: after feature matching the two images to be matched after feature detection, the matching point pairs are as follows：
